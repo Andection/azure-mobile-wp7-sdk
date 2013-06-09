@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C0193772E8A04C4C8ABE58DBFCFF88EE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C0193772E8A04C4C8ABE58DBFCFF88EE/Name/@EntryValue">MobileServiceTableTests #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C0193772E8A04C4C8ABE58DBFCFF88EE/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" type="MsTestTestClassElement" TypeName="AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" Project="EBD58918-BD9F-40C6-BEDF-1DD94FEF3909" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests.should_delete" ParentId="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" type="MsTestTestMethodElement" MethodName="should_delete" TypeName="AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" Project="EBD58918-BD9F-40C6-BEDF-1DD94FEF3909" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests.should_insert" ParentId="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" type="MsTestTestMethodElement" MethodName="should_insert" TypeName="AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" Project="EBD58918-BD9F-40C6-BEDF-1DD94FEF3909" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests.should_update" ParentId="MsTest:AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" type="MsTestTestMethodElement" MethodName="should_update" TypeName="AzuraMobileWp7Sdk.Tests.MobileServiceTableTests" Project="EBD58918-BD9F-40C6-BEDF-1DD94FEF3909" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

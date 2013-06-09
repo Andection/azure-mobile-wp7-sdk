@@ -1,6 +1,6 @@
 ﻿
 
-namespace MobileServices.Sdk
+namespace AzuraMobileSdk
 {
     /// <summary>
     /// Authentication providers supported by Mobile Services.

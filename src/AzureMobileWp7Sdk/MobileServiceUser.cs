@@ -1,15 +1,4 @@
-﻿using System;
-using System.Net;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Documents;
-using System.Windows.Ink;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Animation;
-using System.Windows.Shapes;
-
-namespace MobileServices.Sdk
+﻿namespace AzuraMobileSdk
 {
     /// <summary>
     /// An authenticated Mobile Services user.
@@ -24,7 +13,7 @@ namespace MobileServices.Sdk
         /// </param>
         internal MobileServiceUser(string userId)
         {
-            this.UserId = userId;
+            UserId = userId;
         }
 
         /// <summary>
